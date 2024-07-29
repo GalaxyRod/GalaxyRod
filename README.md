@@ -1,4 +1,16 @@
-## Hi there 👋
+## Buenas
+
+**Estudiante de Ing en Computacion en la UEES**.<br>
+<ol>
+  <li>Desarollador de Unreal Engine 5.</li>
+  <li>Desarrollador en Java.</li>
+  <li>Desarrollador en Clicketeam Fusion.</li>
+</ol>
+
+
+
+
+
 
 <!--
 **GalaxyRod/GalaxyRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
